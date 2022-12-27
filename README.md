@@ -1,9 +1,7 @@
 ## Ola, me chamo Erick Macedo Costa👋
 
 <div>
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Macedo-Costa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Macedo-Costa&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 <br>
