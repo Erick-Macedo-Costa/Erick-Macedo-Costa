@@ -6,7 +6,7 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Macedo-Costa&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 <br>
-
+<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="Developer.gif">
