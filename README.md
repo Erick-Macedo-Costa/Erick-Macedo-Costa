@@ -2,14 +2,15 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Macedo-Costa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-MacedoCosta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Macedo-Costa&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 <br>
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="Developer.gif">
     <h1 align="center">Tecnologias que eu uso no meu dia</h1>
      <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
