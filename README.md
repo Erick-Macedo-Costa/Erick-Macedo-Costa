@@ -1,4 +1,4 @@
-###Oi, me chamo Erick Macedo Costa!
+### Oi, me chamo Erick Macedo Costa!
 >Bem vindo ao meu perfil GitHub 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erickpart28@gmail.com)
